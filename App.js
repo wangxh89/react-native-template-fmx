@@ -1,5 +1,5 @@
 import React from 'react';
-import {Content, Button, Container} from '@ngweb/fish-mobile-x';
+import {Content, Button, Container} from '@ztesoft/fmx';
 
 export default class App extends React.Component {
   render() {
